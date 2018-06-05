@@ -1,7 +1,0 @@
-3.2.1 Requisito funcional 1
-El sistema debe poder conectarse con el disco con los archivos más nuevos y el disco con los archivos en Producción
-Introduccion: Poder conectarse con el disco Pases y Prod para realizar la verificación de los archivos descritos en el Pase a Producción. 
-Entradas: Ruta específica dentro de cada disco
-Procedimiento: Ingresar a la ruta indicada en cada disco indicado.
-Salidas: Confirmación o Negación de la existencia del archivo indicado en cada ruta en cada disco (existencia obligatoria en Pases, opcional en Prod).
-
